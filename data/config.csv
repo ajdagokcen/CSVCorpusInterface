@@ -1,0 +1,6 @@
+corpus_name,Hebrew corpus interface
+corpus_path,data/lexiconP_Shortend_length_roots_frequencies.csv
+corpus_delim,"	"
+usage_path,data/usage.csv
+usage_delim,","
+output_delim,","

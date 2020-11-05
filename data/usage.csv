@@ -1,0 +1,20 @@
+index,header,longname,rtl,display,search,retrieve,modify
+0,,,0,0,0,0,0
+1,pos,Part of Speech,0,1,0,0,0
+2,,,0,0,0,0,0
+3,vowelless,Vowelless Hebrew,1,1,1,0,0
+4,,,0,0,0,0,0
+5,register1,Register 1,0,1,0,0,0
+6,register2,Register 2,0,1,0,0,0
+7,vowelful,Vowelful Hebrew,1,1,1,0,1
+8,,,0,0,0,0,0
+9,,,0,0,0,0,0
+10,,,0,0,0,0,0
+11,,,0,0,0,0,0
+12,,,0,0,0,0,0
+13,,,0,0,0,0,0
+14,transcription,Latin Transcription,0,1,1,0,1
+15,,,0,0,0,0,0
+16,,,0,0,0,0,0
+17,root,Root,1,1,0,1,1
+18,freq,Frequency,0,1,0,1,1
